@@ -3,10 +3,4 @@
   "symbol": "SEL",
   "description": "Earn crypto daily with Staking",
   "image": "https://raw.githubusercontent.com/cryptoadsservices/selwix/main/assets/selwix/selwixtransparent.png"
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Compressed Coil"
-      }
-    ]
   }
